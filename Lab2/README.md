@@ -1,4 +1,4 @@
-# second-lab
+# vue2
 
 ## Project setup
 ```
